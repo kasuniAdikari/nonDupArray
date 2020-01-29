@@ -1,3 +1,1 @@
-# textGit
-This is a test git
-kasu
+This contains a non Duplication Array by Java
